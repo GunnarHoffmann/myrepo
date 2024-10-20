@@ -166,7 +166,7 @@ hx_layer = pdk.Layer(
     "HexagonLayer",
     data=trees_df,
     get_position=["longitude", "latitude"],
-    radius=100,
+    radius=1000,
     extruded=True,
 )
 
