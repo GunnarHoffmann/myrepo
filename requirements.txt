@@ -8,7 +8,7 @@ matplotlib
 seaborn
 scikit_learn
 plotly
-bokeh
+bokeh==2.4.3
 altair
 pydeck
 pandas_profiling
